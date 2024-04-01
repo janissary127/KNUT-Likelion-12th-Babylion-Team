@@ -22,8 +22,8 @@ README.md은 저장소를 소개하는 가이드 파일입니다. 마크업 언�
 8. 최병호 - asdfasdfasdfasdf
 9. 
 10. 이동민 - ssoaora
-11.
-12.최하민 - chmin4
+11. 최하민 - chmin4 
+12.
 13.
 14.
 15.
